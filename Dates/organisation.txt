@@ -1,0 +1,57 @@
+InOutQuestion					determine-in-out					in-out
+MoneyQuestion 					determine-money						money
+HungryQuestion 					determine-hungry					hungry
+AdventureLowkeyQuestion 		determine-adventure-lowkey			adventure-lowkey
+TravelCloseQuestion 			determine-travel-close				travel-close	
+DateTypeQuestion				determine-date-type					date-type
+NHungryNatureIndoorsQuestion	determine-nhungry-nature-indoors	nhungry-nature-indoors
+WeatherQuestion					determine-weather					weather
+FeelingSillySweetQuestion		determine-silly-sweet				silly-sweet
+LowkeyNatureIndoorsQuestion		determine-lowkey-nature-indoors		lowkey-nature-indoors
+KidsQuestion					determine-kids						kids
+RelaxActiveQuestion				determine-relax-active				relax-active
+MovieQuestion					determine-movie						movie
+MovieTypeQuestion				determine-movie-type				movie-type
+NMovieDateTypeQuestion			determine-nmovie-date-type			nmovie-date-type
+FeelingPlayfulRomanticQuestion	determine-playful-romantic			playful-romantic
+ActivityTypeQuestion			determine-activity-type				activity-type
+IntimatePlayQuestion			determine-intimate-play				intimate-play
+FeelingSexyPlayfulQuestion		determine-sexy-playful				sexy-playful
+NeedSitterQuestion				determine-need-sitter				need-sitter
+HaveSitterQuestion				determine-have-sitter				have-sitter
+InvolveKidsQuestion				determine-kids-involve				kids-involve
+HungryKidsQuestion				determine-hungry-kids				hungry-kids
+MovieKidsQuestion				determine-movie-kids				movie-kids
+
+
+
+
+LowkeyNatureResult				lowkey-nature-result
+LowkeyIndoorsResult				lowkey-indoors-result
+HungryResult					hungry-result
+WatherColdResult				weather-cold-result
+WeatherWarmResult				weather-warm-result
+SillyResult						silly-result
+SweetResult						sweet-result
+TravelResult
+PlayfulResult
+UniqueResult
+FunnyResult
+GameResult
+CheapResult
+FunnyMovieResult
+ChickFlickMovieResult
+ManlyManMovieResult
+BothWillLoveMovieResult
+PlayfulNmovieResult
+CuddleResult
+GetToKnowYouResult
+FunResult
+SillyActivityResult
+SentimentalResult
+SexyResult
+PlayfulIntimateResult
+HungryKidsResult
+MovieKidsResult
+NMovieKidsResult
+PlayResult
